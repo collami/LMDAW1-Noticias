@@ -1,7 +1,7 @@
 # LMDAW1-Noticias - Web de noticias sobre Drones
 ## Objectivo: Realizar una aplicación web de noticias que, al hecer scroll hasta el final de la página, recargue más noticias con html, jQuery y Bootstrap.
 ## Enlace
-### La url en Rawgit de `news.html` es: https://rawgit.com/collami/LMDAW1-Examen-Autocorreccio/master/index.html
+### La url en Rawgit de `news.html` es: https://rawgit.com/collami/LMDAW1-Noticias/master/news.html
 ## Estructura de ficheros del proyecto
 ### 1- El fichero principal es:`news.html`, contiene la portada y las 3 primeras noticias pre-cargadas.
 ### 2- Los ficheros`news1.html` y `news2.html` contienen las noticias ampliadas de las dos primeras noticias del fichero `news.html`.
