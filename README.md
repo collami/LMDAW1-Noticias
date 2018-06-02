@@ -1,6 +1,6 @@
 # LMDAW1-Noticias
 Web de noticias sobre Drones
-
+---
 ## Desarrollo de un formulario con autocorrección
 ---
 #### Se trata de desarrollar un formulario con 10 preguntas de diferentes tipos:
