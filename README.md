@@ -15,7 +15,8 @@
 ### 6- Ficheros json con las noticias adicionales a cargar en `news.html` en la carpeta `data`.
 #### 6.1- El fichero `1.json` contiene tres noticias que se cargarán en la primera carga.
 #### 6.2- El fichero `2.json` contiene tres noticias que se cargarán en la segunda carga.
-### 7- La rama `Minify` contiene el proyecto con los ficheros html, css, json y js minimificados.
+### 7- La carpeta `Boetos` contiene los bocetos de news.html y news{1-2}.html.
+### 8- La rama `Minify` contiene el proyecto con los ficheros html, css, json y js minimificados.
 ## Los ficheros html, css, xml, json y js están identados y validados.
 ### Herramintas:
 ~~~~
