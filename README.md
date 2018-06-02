@@ -47,7 +47,9 @@ Button Groups: Para soliciar el registro o ingreso en la web.
 https://www.crearlogogratisonline.com/
 ~~~~
 ## Observaciones:
-### Para cargar más noticias, se debe  pulsar sobre el botón "cargar más noticias" al pie de la última noticia cargada o bien hacer scroll hasta el final de la página.
+### Para cargar más noticias:
+#### > Se debe  pulsar sobre el botón "cargar más noticias" al pie de la última noticia cargada.
+#### > Si la opción "Cargar noticias con scroll" está habilitada, hacer scroll hasta el final de la página.
 ### El título del botón "cargar más noticias" cambiará a "no hay más noticias" cuando se hallan cargado los dos ficheros json.
 ### Se ha incluido publicidad.
 #### > Si la web es cargada por un dispositivo de escritorio, aparecerá fija en el margen derecho de la página.
