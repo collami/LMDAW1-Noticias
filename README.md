@@ -49,3 +49,7 @@ https://www.crearlogogratisonline.com/
 ## Observaciones:
 ### Para cargar más noticias, se debe  pulsar sobre el botón "cargar más noticias" al pie de la última noticia cargada o bien hacer scroll hasta el final de la página.
 ### El título del botón "cargar más noticias" cambiará a "no hay más noticias" cuando se hallan cargado los dos ficheros json.
+### Se ha incluido publicidad.
+#### Si la web es cargada por un dispositivo de escritorio, aparecerá fija en el margen derecho de la página.
+#### Si la web es cargada por un dispositivo móvil, aparecerá fija en la parte inferior de la página.
+### Se ha incluido en el pie de página, acceso a las principales plataformas de redes sociales para compartir informacion de la web.
