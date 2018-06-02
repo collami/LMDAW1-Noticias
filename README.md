@@ -27,6 +27,8 @@ Validador de js:
          http://esprima.org/demo/validate.html
 Validador de rss:
          https://validator.w3.org/feed/
+Validador de json:         
+         https://jsonlint.com/
 ~~~~
 ## Se ha reducido la resolución de las imágenes con el objetivo de utilizarlas en la web, al ser cargada por dispositivos móviles.
 ### Herraminta:
