@@ -66,7 +66,7 @@ function cargarNoticias() {
 
         var nombre = ficheros[cont];
         cont++;
-        $.getJSON("https://rawgit.com/collami/scsdsfds/master/data/" + nombre, function (aux) {
+        $.getJSON("https://rawgit.com/collami/LMDAW1-Noticias/master/data/" + nombre, function (aux) {
             agregar(aux);
         });
     } else {

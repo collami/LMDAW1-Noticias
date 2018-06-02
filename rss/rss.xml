@@ -2,26 +2,26 @@
 <rss version="2.0">
     <channel>
         <title>Noticias sobre Drones</title>
-        <link>https://rawgit.com/arsg93/Noticias/master/news.html</link>
+        <link>https://rawgit.com/collami/LMDAW1-Noticias/master/news.html</link>
         <description>Últimas noticias y novedades sobre el mundo de los Drones</description>
         <category>News/Dron</category>
         <language>en-us</language>
         <item>
         <title>ESTA TECNOLOGÍA PERMITE QUE UN DRON EVITE OBSTÁCULOS EN INTERIORES</title>
-        <link>https://rawgit.com/arsg93/Noticias/master/news1.html</link>
-        <description><![CDATA[<div><img width="200" height="200" src="https://github.com/davidgm17/tatto-wok/blob/master/img/lidia_small.jpg" /></div>]]>Sin GPS una aeronave no tripulada está perdida. Y más cuando hablamos de evitar obstáculos. Pero esta situación no es ...</description>
+        <link>https://rawgit.com/collami/LMDAW1-Noticias/master/news1.html</link>
+        <description><![CDATA[<div><img width="200" height="200" src="https://github.com/collami/LMDAW1-Noticias/blob/master/img/noticias/imgbig/terabee.jpg" /></div>]]>Sin GPS una aeronave no tripulada está perdida. Y más cuando hablamos de evitar obstáculos. Pero esta situación no es ...</description>
         <pubDate>Tue, 15 May 2018 22:38:41 GMT </pubDate>
         </item>
         <item>
         <title>ESTE EQUIPO DE RPAS PUEDE SEMBRAR 100.000 SEMILLAS EN UN DÍA</title>
-        <link>https://rawgit.com/arsg93/Noticias/master/news1.html</link>
-        <description><![CDATA[<div><img width="200" height="200" src="https://github.com/davidgm17/tatto-wok/blob/master/img/lidia_small.jpg" /></div>]]>La empresa británica BioCarbon Engineering ha desarrollado un novedoso sistema basado en el uso de drones para replantar árboles en ...</description>
+        <link>https://rawgit.com/collami/LMDAW1-Noticias/master/news2.html</link>
+        <description><![CDATA[<div><img width="200" height="200" src="https://github.com/collami/LMDAW1-Noticias/blob/master/img/noticias/imgbig/biocarbon-engineering.jpg" /></div>]]>La empresa británica BioCarbon Engineering ha desarrollado un novedoso sistema basado en el uso de drones para replantar árboles en ...</description>
         <pubDate>Sun, 06 May 2018 22:38:41 GMT </pubDate>
         </item>
         <item>
         <title>UN DRON DE INSPIRACIÓN ORIGAMI PARA AYUDAR EN EMERGENCIA POR DESASTRES</title>
-        <link>https://rawgit.com/arsg93/Noticias/master/news1.html</link>
-        <description><![CDATA[<div><img width="200" height="200" src="https://github.com/davidgm17/tatto-wok/blob/master/img/lidia_small.jpg" /></div>]]>Un equipo de investigadores de la Escuela Politécnica Federal de Lausanne, en Suiza, ha creado una aeronave no tripulada capaz ...</description>
+        <link>https://rawgit.com/collami/LMDAW1-Noticias/master/news.html</link>
+        <description><![CDATA[<div><img width="200" height="200" src="https://github.com/collami/LMDAW1-Noticias/blob/master/img/noticias/imgbig/dron-origami.jpg" /></div>]]>Un equipo de investigadores de la Escuela Politécnica Federal de Lausanne, en Suiza, ha creado una aeronave no tripulada capaz ...</description>
         <pubDate>Fri, 27 Apr 2018 22:38:41 GMT </pubDate>
         </item>
     </channel>
