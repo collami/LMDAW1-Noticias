@@ -41,6 +41,11 @@ Carousel: Para mostrar una secuncia de imágenes bajo la barra de menú.
 Container: Para contener las noticias.
 Button Groups: Para soliciar el registro o ingreso en la web.
 ~~~~
+## Se ha creado un logo identificativo de la web (Todo Drones), para incluirlo en la barra de navegación y el pie de página.
+### Herramintas:
+~~~~
+https://www.crearlogogratisonline.com/
+~~~~
 ## Observaciones:
 ### Para cargar más noticias, se debe  pulsar sobre el botón "cargar más noticias" al pie de la última noticia cargada o bien hacer scroll hasta el final de la página.
 ### El título del botón "cargar más noticias" cambiará a "no hay más noticias" cuando se hallan cargado los dos ficheros json.
