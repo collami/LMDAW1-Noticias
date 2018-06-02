@@ -36,19 +36,11 @@ http://webresizer.com/
 ## Se han empleado herramientas de Bootstrap 3 para el diseño de la web.
 ### Herramintas:
 ~~~~
-Navbar:
-Para mostrar la barra de navegación.
-Carousel:
-Para mostrar una secuncia de imágenes bajo la barra de menú.
-Container:
-Para contener las noticias.
-Button Groups:
-Para soliciar el registro o ingreso en la web.
+Navbar: Para mostrar la barra de navegación.
+Carousel: Para mostrar una secuncia de imágenes bajo la barra de menú.
+Container: Para contener las noticias.
+Button Groups: Para soliciar el registro o ingreso en la web.
 ~~~~
-
 ## Observaciones:
----
-### EL formulario se debe responder en su totalidad para poder ejecutar la corrección.
-### Aparecerán mensajes "alert" indicando las preguntas que no se han contestado.
-### La corrección indicará si se ha acertado o no la pregunta, en caso de fallo nos mostrará cual o cuales son las respuestas correctas.
-### Se calculará la nota obtenida sobre 10.
+### Para cargar más noticias, se debe  pulsar sobre el botón "cargar más noticias" al pie de la última noticia cargada o bien hacer scroll hasta el final de la página.
+### El título del botón "cargar más noticias" cambiará a "no hay más noticias" cuando se hallan cargado los dos ficheros json.
