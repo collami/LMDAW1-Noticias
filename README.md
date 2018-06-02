@@ -1,5 +1,5 @@
 # LMDAW1-Noticias - Web de noticias sobre Drones
-## Objectivo: Realizar una aplicación web de noticias que, al hecer scroll hasta el final de la página, recatgue más noticias con html, jQuery y Bootstrap.
+## Objectivo: Realizar una aplicación web de noticias que, al hecer scroll hasta el final de la página, recargue más noticias con html, jQuery y Bootstrap.
 ## Enlace
 ### La url en Rawgit de `news.html` es: https://rawgit.com/collami/LMDAW1-Examen-Autocorreccio/master/index.html
 ## Estructura de ficheros del proyecto
@@ -25,8 +25,13 @@ Validador de css:
          https://jigsaw.w3.org/css-validator/#validate_by_input
 Validador de js:
          http://esprima.org/demo/validate.html
-Validador de rss utilizado:
+Validador de rss:
          https://validator.w3.org/feed/
+~~~~
+## Se ha reducido la resolución de las imágenes con el objetivo de utilizarlas en la web, al ser cargada por dispositivos móviles.
+### Herraminta:
+~~~~
+http://webresizer.com/
 ~~~~
 
 ## Observaciones:
