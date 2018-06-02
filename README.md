@@ -10,12 +10,11 @@
 ### 5- Ficheros javascript para el proyecto en la carpeta `js`.
 #### 5.1- El fichero `js.js` para ejecutarse sobre `news.html`.
 #### 5.2- El fichero `jsnews.js` para ejecutarse sobre `news1.html` y `news2.html`.
-### 4- Ficheros xml con las preguntas del test en la carpeta `xml`, (el fichero questions.xml utilizado en el javascript se encuentra dentro de la carpeta `dtd`).
-### 5- Fichero json con las preguntas del test en la carpeta `data`.
-### 6- El fichero principal es:`index.html`, contiene la portada y las instrucciones del test así como el enlace al mismo.
-### 7- El fichero con el test es:`test.html`
-### 6- La rama `Minify` contiene el proyecto con los ficheros html, css, xml, json y js minimificados.
-### 7- La url en Rawgit de `index.html` es: https://rawgit.com/collami/LMDAW1-Examen-Autocorreccio/master/index.html
+### 6- Ficheros json con las noticias adicionales a cargar en `news.html` en la carpeta `data`.
+#### 6.1- El fichero `1.json` contiene tres noticias que se cargarán en la primera carga.
+#### 6.2- El fichero `2.json` contiene tres noticias que se cargarán en la segunda carga.
+### 6- La rama `Minify` contiene el proyecto con los ficheros html, css, json y js minimificados.
+### 7- La url en Rawgit de `.html` es: https://rawgit.com/collami/LMDAW1-Examen-Autocorreccio/master/index.html
 ### 8- Los ficheros html, css, xml, json y js están identados y validados.
 
 
