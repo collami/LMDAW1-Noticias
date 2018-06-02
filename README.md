@@ -4,8 +4,9 @@
 ### 1- El fichero principal es:`news.html`, contiene la portada y las 3 primeras noticias pre-cargadas.
 ### 2- Los ficheros`news1.html` y `news2.html` contienen las noticias ampliadas de las dos primeras noticias del fichero `news.html`.
 ### 3- Colección de imágenes para el proyecto en la carpeta `img`
-#### 3.1- Colección de imágenes de las noticias en la carpeta `imgbig`
-#### 3.2- Colección de imágenes de las noticias con menor resolución en la carpeta `imgbig`
+#### 3.1- Colección de imágenes de las noticias en la carpeta `noticias\imgbig`
+#### 3.2- Colección de imágenes de las noticias con menor resolución en la carpeta `noticias\imgmid`
+
 #### 3.1- Colección de ficheros css para el proyecto en la carpeta `css`
 ### 3- Fichero javascript js para el proyecto en la carpeta `js`
 ### 4- Ficheros xml con las preguntas del test en la carpeta `xml`, (el fichero questions.xml utilizado en el javascript se encuentra dentro de la carpeta `dtd`).
