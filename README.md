@@ -1,7 +1,5 @@
-# LMDAW1-Noticias
-Web de noticias sobre Drones
----
-## Desarrollo de un formulario con autocorrección
+# LMDAW1-Noticias - Web de noticias sobre Drones
+## Objectivo: Realizar una aplicación web de noticias que, al hecer scroll hasta el final de la página, recatgue más noticias con html, jQuery y Bootstrap.
 ---
 #### Se trata de desarrollar un formulario con 10 preguntas de diferentes tipos:
 #### 2 de tipo text, 2 de tipo select, 2 de tipo select múltiple, 2 de tipo checkbox y 2 de tipo radio.
