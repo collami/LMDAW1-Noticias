@@ -15,7 +15,7 @@
 ### 6- Ficheros json con las noticias adicionales a cargar en `news.html` en la carpeta `data`.
 #### 6.1- El fichero `1.json` contiene tres noticias que se cargarán en la primera carga.
 #### 6.2- El fichero `2.json` contiene tres noticias que se cargarán en la segunda carga.
-### 6- La rama `Minify` contiene el proyecto con los ficheros html, css, json y js minimificados.
+### 7- La rama `Minify` contiene el proyecto con los ficheros html, css, json y js minimificados.
 ## Los ficheros html, css, xml, json y js están identados y validados.
 ### Herramintas:
 ~~~~
@@ -32,6 +32,18 @@ Validador de rss:
 ### Herraminta:
 ~~~~
 http://webresizer.com/
+~~~~
+## Se han empleado herramientas de Bootstrap 3 para el diseño de la web.
+### Herramintas:
+~~~~
+Navbar:
+Para mostrar la barra de navegación.
+Carousel:
+Para mostrar una secuncia de imágenes bajo la barra de menú.
+Container:
+Para contener las noticias.
+Button Groups:
+Para soliciar el registro o ingreso en la web.
 ~~~~
 
 ## Observaciones:
