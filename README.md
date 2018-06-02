@@ -1,10 +1,12 @@
 # LMDAW1-Noticias - Web de noticias sobre Drones
 ## Objectivo: Realizar una aplicación web de noticias que, al hecer scroll hasta el final de la página, recatgue más noticias con html, jQuery y Bootstrap.
----
-#### Se trata de desarrollar un formulario con 10 preguntas de diferentes tipos:
-#### 2 de tipo text, 2 de tipo select, 2 de tipo select múltiple, 2 de tipo checkbox y 2 de tipo radio.
-### 1- Colección de imágenes para el proyecto en la carpeta `img`
-### 2- Colección de ficheros css para el proyecto en la carpeta `css`
+## Estructura de ficheros del proyecto
+### 1- El fichero principal es:`news.html`, contiene la portada y las 3 primeras noticias pre-cargadas.
+### 2- Los ficheros`news1.html` y `news2.html` contienen las noticias ampliadas de las dos primeras noticias del fichero `news.html`.
+### 3- Colección de imágenes para el proyecto en la carpeta `img`
+#### 3.1- Colección de imágenes de las noticias en la carpeta `imgbig`
+#### 3.2- Colección de imágenes de las noticias con menor resolución en la carpeta `imgbig`
+#### 3.1- Colección de ficheros css para el proyecto en la carpeta `css`
 ### 3- Fichero javascript js para el proyecto en la carpeta `js`
 ### 4- Ficheros xml con las preguntas del test en la carpeta `xml`, (el fichero questions.xml utilizado en el javascript se encuentra dentro de la carpeta `dtd`).
 ### 5- Fichero json con las preguntas del test en la carpeta `json`, ( no se ha utilizado en este proyecto porque se ha optado por la opción del fichero xml).
